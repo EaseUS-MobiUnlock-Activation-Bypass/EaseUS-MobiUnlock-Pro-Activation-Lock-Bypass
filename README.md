@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://cutt.ly/ztaoWwvP">
+  <a href="https://cutt.ly/ctOsNt70">
     <img src="https://img.shields.io/badge/Open_MobiUnlock_Pro_Guide-FF6B00?style=for-the-badge&logo=easeus&logoColor=white"
          height="84"
          style="border-radius:42px; box-shadow:0 20px 60px rgba(255,107,0,0.6);">
